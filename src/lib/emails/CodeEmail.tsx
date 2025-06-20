@@ -1,3 +1,5 @@
+// src/lib/emails/CodeEmail.tsx
+
 import { Section, Text, Container } from '@react-email/components';
 import EmailTemplate from './EmailTemplate';
 import React from 'react';

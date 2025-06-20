@@ -1,3 +1,5 @@
+// src/routes/+page.server.ts
+
 import { fail, type Actions } from '@sveltejs/kit';
 import { sendCodeEmail } from '$lib/server/email';
 

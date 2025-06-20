@@ -1,3 +1,5 @@
+// src/lib/emails/EmailTemplate.tsx
+
 import { Html, Container, Section, Text } from '@react-email/components';
 import React from 'react';
 
